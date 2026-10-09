@@ -204,6 +204,6 @@ The release workflow builds firmware in CI and attaches the merged image to the 
 
 ## Dependencies
 
-- [LovyanGFX](https://github.com/lovyan03/LovyanGFX)
+
 - [WiFiManager](https://github.com/tzapu/WiFiManager)
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
